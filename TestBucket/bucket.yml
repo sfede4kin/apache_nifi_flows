@@ -1,6 +1,0 @@
-flows:
-  5c45b186-294c-46fd-98e0-08ea348223df: {ver: 2, file: PostgresToFileProcess.snapshot,
-    comments: version test, author: anonymous, created: 1650037336787, flowName: PostgresToFileProcess,
-    flowDesc: ''}
-layoutVer: 1
-bucketId: 8c520432-62c6-47e9-b404-b8cad01e193b
