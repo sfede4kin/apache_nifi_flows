@@ -11,7 +11,7 @@
         }
       },
       "flowContents" : {
-        "comments" : "version test",
+        "comments" : "version test 2",
         "componentType" : "PROCESS_GROUP",
         "connections" : [ ],
         "controllerServices" : [ ],

@@ -1,6 +1,6 @@
 flows:
-  f46702bc-e87f-4abe-b3a3-89693db21fa0: {ver: 1, file: PostgresToFileProcess.snapshot,
-    comments: '', author: anonymous, created: 1650037383508, flowName: PostgresToFileProcess,
+  f46702bc-e87f-4abe-b3a3-89693db21fa0: {ver: 2, file: PostgresToFileProcess.snapshot,
+    comments: version test 2, author: anonymous, created: 1650037460367, flowName: PostgresToFileProcess,
     flowDesc: ''}
   fb6961c8-2601-4614-a531-c59f9b95e21b: {ver: 2, file: TestProcess.snapshot, comments: version
       test, author: anonymous, created: 1650037185657, flowName: TestProcess, flowDesc: ''}
