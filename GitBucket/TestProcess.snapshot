@@ -6,7 +6,7 @@
     "flowSnapshot" : {
       "externalControllerServices" : { },
       "flowContents" : {
-        "comments" : "",
+        "comments" : "version test",
         "componentType" : "PROCESS_GROUP",
         "connections" : [ ],
         "controllerServices" : [ ],
@@ -22,8 +22,8 @@
         "name" : "TestProcess",
         "outputPorts" : [ ],
         "position" : {
-          "x" : 467.56695808990753,
-          "y" : -346.0546276800871
+          "x" : 400.0,
+          "y" : -352.0
         },
         "processGroups" : [ ],
         "processors" : [ ],

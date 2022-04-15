@@ -1,5 +1,5 @@
 flows:
-  fb6961c8-2601-4614-a531-c59f9b95e21b: {ver: 1, file: TestProcess.snapshot, comments: '',
-    author: anonymous, created: 1650036993160, flowName: TestProcess, flowDesc: ''}
+  fb6961c8-2601-4614-a531-c59f9b95e21b: {ver: 2, file: TestProcess.snapshot, comments: version
+      test, author: anonymous, created: 1650037185657, flowName: TestProcess, flowDesc: ''}
 layoutVer: 1
 bucketId: 739b3be4-ff2b-41bd-9860-eb9aa0d85e18
